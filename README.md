@@ -9,3 +9,5 @@
 > Pero no estamos aquí para comprobar estos cálculos, sino para verificar que a medida que pasa el tiempo y el número de sorteos celebrados aumenta, los porcentajes de ocurrencia de cada número tienden a la probabilidad esperada del suceso, esto es 12.24 %, o lo que es lo mismo, 6/49.
 
 > El cumplimiento de este teorema en la práctica se muestra en un video que comparto en el siguiente artículo: https://www.lorenzoherrera.site/spanish/portfolio-personal/an%C3%A1lisis-de-datos/la-primitiva
+
+> Para obtener todos los gráficos que forman este video, ejecuta el archivo main.py de este repositorio. Adicionalmente, dentro de la carpeta 'cuadernillo', encontrarás un jupyter notebook 'loterias' con todo el procesamiento y tratamiento de datos por fuera.
